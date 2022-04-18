@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fabyash84@gmail.com**
 
-- ⚡ Fun fact **I think I am pro but i'm not**
+- ⚡ Fun fact **I think I am pro and i'm **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
