@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlordyash&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlordyash" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Web Development**
+
+- 🧠 I'm learning Backend Development
 
 - 💬 Ask me about  **Web Dev**,**Android**,**Flutter**
+
+- 🖥️  See my portfolio at [MyPortfolio](https://cyberlordyash.github.io/portfolio/)
 
 - 📫 How to reach me **fabyash84@gmail.com**
 
