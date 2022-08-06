@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberlordyash&" alt="cyberlordyash" /></p>
 <br>
-## watch snake eating m contributions graph ;)
+
+<br>
 ![snake gif](https://github.com/CyberlordYash/CyberlordYash/blob/output/github-contribution-grid-snake.gif)
 
