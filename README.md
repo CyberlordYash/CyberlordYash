@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash Sachan</h1>
-<h3 align="center">A passionate App developer and Competitive coder from India</h3>
+<h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlordyash&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlordyash" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about  **Web Dev**,**Android**,**Flutter**
 
 - 📫 How to reach me **fabyash84@gmail.com**
 
