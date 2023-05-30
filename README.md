@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sachan</h1>
 <h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e5ol3zsqb47fu7nzu1v53qglfvrvdxaemc983nc8&ep=v1_gifs_search&rid=200.webp&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlordyash&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlordyash" /> </p>
