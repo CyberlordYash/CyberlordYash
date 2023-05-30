@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  **Web Dev**,**Android**,**Flutter**
 
-- 🖥️  See my portfolio at [MyPortfolio](https://cyberlordyash.github.io/portfolio/)
+- 🖥️  See my portfolio at [MyPortfolio](https://dev-yash-portfolio1.netlify.app/)
 
 - 📫 How to reach me **fabyash84@gmail.com**
 
