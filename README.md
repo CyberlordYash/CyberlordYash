@@ -2,21 +2,16 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%" border="0" alt="animated-line-image-0382" />
 
 <h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" margin-right="500" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlordyash&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlordyash" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
-
 - 🧠 I'm learning Backend Development
-
 - 💬 Ask me about  **Web Dev**,**Android**,**Flutter**
-
 - 🖥️  See my portfolio at [MyPortfolio](https://dev-yash-portfolio.netlify.app/)
-
 - 📫 How to reach me **fabyash84@gmail.com**
-
 - ⚡ Fun fact **I think I am pro and i'm**
 
 <h3 align="left">Connect with me:</h3>
