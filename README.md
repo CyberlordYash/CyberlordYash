@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sachan</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%" border="0" alt="animated-line-image-0382" />
+
 <h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -32,14 +34,19 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberlordyash&show_icons=true&locale=en&layout=compact" alt="cyberlordyash" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberlordyash&show_icons=true&locale=en&layout=compact" alt="cyberlordyash" /></p><hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberlordyash&show_icons=true&locale=en" alt="cyberlordyash" /></p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CyberlordYash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CyberlordYash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberlordYash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberlordyash&" alt="cyberlordyash" /></p>
-<br><hr>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CyberlordYash&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 <h3>Watch a snake eating my contributions graph ;)</h3>
 <br>
 <img src="https://github.com/CyberlordYash/CyberlordYash/blob/output/github-contribution-grid-snake.gif">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%" border="0" alt="animated-line-image-0379" />
 
 
