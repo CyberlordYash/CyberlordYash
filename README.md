@@ -1,4 +1,4 @@
-<img src="https://github.com/CyberlordYash/banner/blob/master/banner2.png?raw=true" width="100%" border="0" alt="animated-line-image-0382" />
+<img src="https://github.com/CyberlordYash/banner/blob/master/Black.png?raw=true" width="100%" border="0" alt="animated-line-image-0382" />
 <h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
 <img align="right" alt="Coding" margin-right="500" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
