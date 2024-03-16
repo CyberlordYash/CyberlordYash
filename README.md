@@ -1,16 +1,10 @@
-# <p align="center"> Hey, I'm [YASH SACHAN](https://dev-yash-portfolio.netlify.app/)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-I am a student from **Indian Institute of Information Technology, Sonepat** with a major in **Software Engineering**.
-<h3 align="center">A passionate Web developer and Competitive coder based in India</h3>
-<img align="right" alt="Coding" margin-right="500" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding"  width="100%" src="https://github.com/CyberlordYash/CyberlordYash/blob/main/assets/bgsdfg.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberlordyash&label=Profile%20views&color=0e75b6&style=flat" alt="cyberlordyash" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
-- 🧠 I'm learning Backend Development
-- 💬 Ask me about  **Web Dev**,**Android**,**Flutter**
 - 🖥️ See my portfolio at [MyPortfolio](https://dev-yash-portfolio.netlify.app/)
-- 📫 Reach me **fabyash84@gmail.com**
+- 📫 Reach me **Yashsachan321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
