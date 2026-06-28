@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=YASH%20SACHAN&fontSize=72&fontAlignY=42&desc=S%20O%20F%20T%20W%20A%20R%20E%20%20%20E%20N%20G%20I%20N%20E%20E%20R&descAlignY=66&descSize=18&height=210" alt="Yash Sachan — Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=YASH%20SACHAN&fontSize=48&fontAlignY=40&desc=S%20O%20F%20T%20W%20A%20R%20E%20%20%20E%20N%20G%20I%20N%20E%20E%20R&descAlignY=64&descSize=15&height=150" alt="Yash Sachan — Software Engineer" />
 </p>
 
 <p align="center">
@@ -20,22 +20,22 @@
 
 <p align="center">
   <a href="https://yashsachan.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=flat-square&logo=firefox&logoColor=FF7139&labelColor=0A0A0A" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=firefox&logoColor=FF7139&labelColor=0D0D0D" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/yashsachan321/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D0D0D" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://github.com/CyberlordYash" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub" />
+  </a>&nbsp;
   <a href="https://leetcode.com/u/CyberlordYash/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0A0A0A" alt="LeetCode" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D0D0D" alt="LeetCode" />
+  </a>&nbsp;
   <a href="https://www.codechef.com/users/CyberlordYash" target="_blank">
-    <img src="https://img.shields.io/badge/CODECHEF-0A0A0A?style=flat-square&logo=codechef&logoColor=E6A817&labelColor=0A0A0A" alt="CodeChef" />
-  </a>
+    <img src="https://img.shields.io/badge/CodeChef-0D0D0D?style=flat-square&logo=codechef&logoColor=E6A817&labelColor=0D0D0D" alt="CodeChef" />
+  </a>&nbsp;
   <a href="mailto:yashsachan321@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=D14836&labelColor=0A0A0A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D0D0D" alt="Email" />
   </a>
 </p>
 
