@@ -1,134 +1,203 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 
 <p align="center">
-  <samp>S &nbsp;Y &nbsp;S &nbsp;T &nbsp;E &nbsp;M &nbsp;S &nbsp;&nbsp;&nbsp; B &nbsp;Y &nbsp;&nbsp;&nbsp; D &nbsp;E &nbsp;S &nbsp;I &nbsp;G &nbsp;N</samp>
+  <img src="./assets/banner.svg" width="100%" alt="Yash Sachan — Software Engineer · Systems by Design" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=YASH%20SACHAN&fontSize=48&fontAlignY=40&desc=S%20O%20F%20T%20W%20A%20R%20E%20%20%20E%20N%20G%20I%20N%20E%20E%20R&descAlignY=64&descSize=15&height=150" alt="Yash Sachan — Software Engineer" />
+  <samp>
+    <a href="#about">ABOUT</a> &nbsp;·&nbsp;
+    <a href="#specialization">SPECIALIZATION</a> &nbsp;·&nbsp;
+    <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
+    <a href="#stack">STACK</a> &nbsp;·&nbsp;
+    <a href="#telemetry">TELEMETRY</a> &nbsp;·&nbsp;
+    <a href="#contact">CONTACT</a>
+  </samp>
 </p>
 
 <p align="center">
-  <a href="https://yashsachan.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&height=46&lines=DISTRIBUTED+%2B+SYSTEMS+%2B+PERFORMANCE;Where+engineering+meets+precision;High-throughput+infrastructure+of+endless+scale;Low-latency+fintech+%E2%80%94+built+to+scale" alt="Typing taglines" />
+  <a href="https://yashsachan.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3000&pause=1000&color=8E97C9&center=true&vCenter=true&width=820&height=40&lines=WHERE+ENGINEERING+MEETS+PRECISION;INFRASTRUCTURE+OF+ENDLESS+SCALE;FROM+DEEP+ROOTS%2C+PERFORMANCE+DRAWS+ITS+STRENGTH;LOW-LATENCY+FINTECH+%E2%80%94+BUILT+TO+SCALE" alt="Where engineering meets precision" />
   </a>
 </p>
 
 <p align="center">
-  <samp>→ HIGH-THROUGHPUT &nbsp;&nbsp; → DISTRIBUTED SYSTEMS &nbsp;&nbsp; → INFRA ENGINEERING</samp>
+  <a href="https://yashsachan.com/"><img src="https://img.shields.io/badge/PORTFOLIO-060A14?style=flat-square&logo=firefox&logoColor=8E97C9&labelColor=060A14" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yashsachan321/"><img src="https://img.shields.io/badge/LINKEDIN-060A14?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=060A14" alt="LinkedIn" /></a>
+  <a href="https://github.com/CyberlordYash"><img src="https://img.shields.io/badge/GITHUB-060A14?style=flat-square&logo=github&logoColor=E6E9F5&labelColor=060A14" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/CyberlordYash/"><img src="https://img.shields.io/badge/LEETCODE-060A14?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=060A14" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/CyberlordYash"><img src="https://img.shields.io/badge/CODECHEF-060A14?style=flat-square&logo=codechef&logoColor=E6A817&labelColor=060A14" alt="CodeChef" /></a>
+  <a href="mailto:yashsachan321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-060A14?style=flat-square&logo=maildotru&logoColor=EA4335&labelColor=060A14" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://yashsachan.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=firefox&logoColor=FF7139&labelColor=0D0D0D" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/yashsachan321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D0D0D" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/CyberlordYash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/CyberlordYash/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D0D0D" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/CyberlordYash" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-0D0D0D?style=flat-square&logo=codechef&logoColor=E6A817&labelColor=0D0D0D" alt="CodeChef" />
-  </a>&nbsp;
-  <a href="mailto:yashsachan321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D0D0D" alt="Email" />
-  </a>
-</p>
+<img src="./assets/rule.svg" width="100%" alt="" />
 
----
+<!-- ═══════════════════ 01 · ABOUT ═══════════════════ -->
+<a id="about"></a>
 
-## 👋 About Me
+## <samp>[ 01 ]&nbsp;&nbsp;A B O U T</samp>
 
-I'm a software engineer focused on the parts of the stack where latency, concurrency, and correctness actually matter. Today I work on **high-frequency trading infrastructure** at Zanskar Securities — Go services that ingest exchange data, stream it over WebSockets, and process orders with minimal contention.
+<samp>NOT A STUDIO — JUST ME.</samp>
 
-```ts
-const yash = {
-  role: "Analyst Software Engineer @ Zanskar Securities",
-  location: "Bengaluru, India",
-  domain: "Fintech · Low-Latency Trading Systems",
-  focus: ["Distributed Systems", "Concurrency", "Event-Driven Architecture", "Observability"],
-  stack: ["Go", "gRPC", "NATS JetStream", "PostgreSQL", "Redis", "Next.js", "TypeScript"],
-  solving: "How do you process market data fast, durably, and without dropping a single order?",
-  dsaSolved: 2000,
-};
+I'm a backend engineer working where latency, concurrency, and correctness actually matter. Day to day that means **high-frequency trading infrastructure** at Zanskar Securities: Go services that ingest exchange feeds, stream them over WebSockets, and move orders through with minimal contention — and mentoring aspiring engineers on the side.
+
+```go
+package main
+
+type Engineer struct {
+    Role     string
+    Location string
+    Domain   string
+    Focus    []string
+    Stack    []string
+    Solving  string
+}
+
+var yash = Engineer{
+    Role:     "Analyst Software Engineer @ Zanskar Securities",
+    Location: "Bengaluru, India",
+    Domain:   "Fintech · Low-Latency Trading Systems",
+    Focus:    []string{"Distributed Systems", "Concurrency", "Event-Driven Architecture", "Observability"},
+    Stack:    []string{"Go", "gRPC", "NATS JetStream", "PostgreSQL", "Redis", "Next.js", "TypeScript"},
+    Solving:  "Process market data fast, durably, and without dropping a single order.",
+}
 ```
 
----
+```text
+[ CORE THREADS OF MY WORK ]
 
-## 💼 Experience
+  01 ////   DISTRIBUTED SYSTEMS
+  02 ////   PERFORMANCE ENGINEERING
+  03 ////   CLOUD-NATIVE INFRA
+  04 ////   2000+ DSA PROBLEMS SOLVED
+```
 
-**Analyst Software Engineer** · *Zanskar Securities, Bengaluru* — `Jul 2025 – Present`
-> Building low-latency **Go** services with goroutines, channels, and worker pools for high-frequency trading workloads. Designed batch **WebSocket** pipelines for real-time market/trade streaming, integrated **NSE, BSE, mutual fund & IPO** platforms (SOAP + Open APIs), and used **NATS JetStream** for durable event streaming. Core contributor to **Nubra**, an in-house trading platform — order management, portfolio tracking, and live market feeds.
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-**Software Engineering Intern** · *Onefinnet, Noida-NCR* — `Jan 2025 – Jun 2025`
-> Engineered concurrent **Go** backend services (↑25% throughput), built an internal chatbot with **Go + Azure AI** (↓21% manual work), and shipped **Next.js** features with deep observability via **Grafana, Prometheus & Loki**.
+<!-- ═══════════════════ 02 · SPECIALIZATION ═══════════════════ -->
+<a id="specialization"></a>
 
-**Software Engineering Intern** · *Modulus Technologies LLP, Remote* — `Jul 2024 – Oct 2024`
-> Migrated a billing system from React to **Next.js** (↓30% load time) and built backend architecture on **PostgreSQL, FeathersJS & GCP**.
+## <samp>[ 02 ]&nbsp;&nbsp;S P E C I A L I Z A T I O N</samp>
 
----
+```text
+┌─ SPECIALIZATION ─────────────────────────────────────────────────────────┐
+│                                                                          │
+│   DISTRIBUTED   +   SYSTEMS   +   PERFORMANCE                            │
+│                                                                          │
+│   →  HIGH-THROUGHPUT      goroutines · channels · worker pools           │
+│   →  EVENT STREAMING      NATS JetStream · durable, at-least-once        │
+│   →  REAL-TIME FEEDS      batched WebSocket fan-out · market + trade     │
+│   →  INFRA ENGINEERING    Docker · Kubernetes · GCP                      │
+│   →  OBSERVABILITY        Prometheus · Grafana · Loki                    │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-## 🛠️ Tech Stack
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-**Languages**
+<!-- ═══════════════════ 03 · EXPERIENCE ═══════════════════ -->
+<a id="experience"></a>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## <samp>[ 03 ]&nbsp;&nbsp;E X P E R I E N C E</samp>
 
-**Backend & APIs**
+<samp>▾ &nbsp;JUL 2025 — PRESENT &nbsp;·&nbsp; ZANSKAR SECURITIES, BENGALURU</samp>
 
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### Analyst Software Engineer
 
-**Frontend**
+> Low-latency **Go** services built on goroutines, channels, and worker pools for high-frequency trading workloads. Designed batched **WebSocket** pipelines for real-time market and trade streaming, integrated **NSE, BSE, mutual fund & IPO** platforms (SOAP + Open APIs), and used **NATS JetStream** for durable event streaming. Core contributor to **Nubra**, an in-house trading platform — order management, portfolio tracking, live market feeds.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<samp>▾ &nbsp;JAN 2025 — JUN 2025 &nbsp;·&nbsp; ONEFINNET, NOIDA-NCR</samp>
 
-**Data**
+### Software Engineering Intern
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+> Engineered concurrent **Go** backend services (**↑ 25% throughput**), built an internal chatbot with **Go + Azure AI** (**↓ 21% manual work**), and shipped **Next.js** features instrumented with **Grafana, Prometheus & Loki**.
 
-**DevOps & Observability**
+<samp>▾ &nbsp;JUL 2024 — OCT 2024 &nbsp;·&nbsp; MODULUS TECHNOLOGIES LLP, REMOTE</samp>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+### Software Engineering Intern
 
----
+> Migrated a billing system from React to **Next.js** (**↓ 30% load time**) and built backend architecture on **PostgreSQL, FeathersJS & GCP**.
 
-## 📊 GitHub Stats
+<img src="./assets/rule.svg" width="100%" alt="" />
+
+<!-- ═══════════════════ 04 · STACK ═══════════════════ -->
+<a id="stack"></a>
+
+## <samp>[ 04 ]&nbsp;&nbsp;S T A C K</samp>
+
+<samp>LANGUAGES</samp><br>
+<img src="https://img.shields.io/badge/Go-060A14?style=flat-square&logo=go&logoColor=00ADD8&labelColor=060A14" alt="Go" />
+<img src="https://img.shields.io/badge/C++-060A14?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=060A14" alt="C++" />
+<img src="https://img.shields.io/badge/Java-060A14?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=060A14" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-060A14?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=060A14" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-060A14?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=060A14" alt="JavaScript" />
+
+<samp>BACKEND &amp; APIS</samp><br>
+<img src="https://img.shields.io/badge/gRPC-060A14?style=flat-square&logo=trpc&logoColor=7C87D4&labelColor=060A14" alt="gRPC" />
+<img src="https://img.shields.io/badge/NATS_JetStream-060A14?style=flat-square&logo=natsdotio&logoColor=27AAE1&labelColor=060A14" alt="NATS JetStream" />
+<img src="https://img.shields.io/badge/Node.js-060A14?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=060A14" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-060A14?style=flat-square&logo=express&logoColor=E6E9F5&labelColor=060A14" alt="Express" />
+<img src="https://img.shields.io/badge/Spring_Boot-060A14?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=060A14" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/GraphQL-060A14?style=flat-square&logo=graphql&logoColor=E10098&labelColor=060A14" alt="GraphQL" />
+
+<samp>FRONTEND</samp><br>
+<img src="https://img.shields.io/badge/Next.js-060A14?style=flat-square&logo=nextdotjs&logoColor=E6E9F5&labelColor=060A14" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-060A14?style=flat-square&logo=react&logoColor=61DAFB&labelColor=060A14" alt="React" />
+<img src="https://img.shields.io/badge/Redux-060A14?style=flat-square&logo=redux&logoColor=764ABC&labelColor=060A14" alt="Redux" />
+<img src="https://img.shields.io/badge/Vite-060A14?style=flat-square&logo=vite&logoColor=646CFF&labelColor=060A14" alt="Vite" />
+
+<samp>DATA</samp><br>
+<img src="https://img.shields.io/badge/PostgreSQL-060A14?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=060A14" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-060A14?style=flat-square&logo=redis&logoColor=FF4438&labelColor=060A14" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-060A14?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=060A14" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-060A14?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=060A14" alt="MySQL" />
+
+<samp>DEVOPS &amp; OBSERVABILITY</samp><br>
+<img src="https://img.shields.io/badge/Docker-060A14?style=flat-square&logo=docker&logoColor=2496ED&labelColor=060A14" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-060A14?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=060A14" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GCP-060A14?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=060A14" alt="GCP" />
+<img src="https://img.shields.io/badge/Prometheus-060A14?style=flat-square&logo=prometheus&logoColor=E6522C&labelColor=060A14" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-060A14?style=flat-square&logo=grafana&logoColor=F46800&labelColor=060A14" alt="Grafana" />
+<img src="https://img.shields.io/badge/Loki-060A14?style=flat-square&logo=grafana&logoColor=F5A800&labelColor=060A14" alt="Loki" />
+
+<img src="./assets/rule.svg" width="100%" alt="" />
+
+<!-- ═══════════════════ 05 · TELEMETRY ═══════════════════ -->
+<a id="telemetry"></a>
+
+## <samp>[ 05 ]&nbsp;&nbsp;T E L E M E T R Y</samp>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CyberlordYash&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberlordYash&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberlordYash&show_icons=true&count_private=true&hide_border=true&bg_color=060A14&title_color=8E97C9&text_color=7C879C&icon_color=7C87D4&ring_color=7C87D4" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberlordYash&layout=compact&langs_count=8&hide_border=true&bg_color=060A14&title_color=8E97C9&text_color=7C879C" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberlordYash&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberlordYash&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </p>
 
----
+<img src="./assets/rule.svg" width="100%" alt="" />
+
+<!-- ═══════════════════ 06 · CONTACT ═══════════════════ -->
+<a id="contact"></a>
+
+## <samp>[ 06 ]&nbsp;&nbsp;C O N T A C T</samp>
+
+```text
+LOCAL TIME   IST · UTC+05:30          STATUS   ● OPEN TO CONVERSATIONS
+LOCATION     BENGALURU, INDIA         BEST AT  distributed systems · Go · latency work
+```
 
 <p align="center">
-  <em>"Code isn't just meant to run — it's meant to scale, stay observable, and survive Monday morning."</em>
+  <a href="mailto:yashsachan321@gmail.com"><img src="https://img.shields.io/badge/yashsachan321@gmail.com-060A14?style=flat-square&logo=maildotru&logoColor=EA4335&labelColor=060A14" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yashsachan321/"><img src="https://img.shields.io/badge/in/yashsachan321-060A14?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=060A14" alt="LinkedIn" /></a>
+  <a href="https://yashsachan.com/"><img src="https://img.shields.io/badge/yashsachan.com-060A14?style=flat-square&logo=firefox&logoColor=8E97C9&labelColor=060A14" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <samp><em>Code isn't just meant to run — it's meant to scale, stay observable, and survive Monday morning.</em></samp>
+</p>
+
+<p align="center">
+  <samp>FOUNDATION DESIGNED FOR GROWTH</samp>
 </p>
